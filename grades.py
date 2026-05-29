@@ -56,7 +56,10 @@ if __name__ == "__main__":
     print(f"최저점: {lowest} ({scores[lowest]:.1f}점)")
 
 
-'''
+
 # gradebook v1.0 — 1주차 실습 완료
 SUBJECTS = ["국어", "영어", "수학", "과학탐구"]
-'''
+
+
+# gradebook v1.1 — 2주차 실습 시작
+SUBJECTS = ["국어", "영어", "수학", "과학탐구"]
